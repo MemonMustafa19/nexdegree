@@ -13,4 +13,6 @@ Step 4: Install packages in requirement.txt file
 
 Step 5: Clone the project
 
-Step 6: Run the project
+Step 6: Run migrations
+
+Step 7: Run the project
